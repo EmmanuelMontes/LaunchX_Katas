@@ -1,14 +1,17 @@
 ### Creación de Virtual Environment utilizando ``venv``
 
-Paso 1. Creación de carpeta local mediante la instrucción ``python -m venv Mod2_Kata``, Mod2_Kata es el nombre asignado a mi carpeta de prueba.
+* Creación de carpeta local mediante la instrucción ``python -m venv Mod2_Kata``, Mod2_Kata es el nombre asignado a mi carpeta de prueba.
 
 ![image](https://github.com/EmmanuelMontes/LaunchX_Katas/blob/main/images/Imagen1.PNG)
 
-Paso 2. Creación de subcarpetas de forma automática al haber ejecutado la instrucción anterior. 
+* Creación de subcarpetas de forma automática al haber ejecutado la instrucción anterior. 
 
 ![image](https://github.com/EmmanuelMontes/LaunchX_Katas/blob/main/images/Imagen2.PNG)
 
-Paso 3. Activación del entorno en Windows 10, con la ruta abierta hasta la carpeta de Scripts, mediante la instrucción: ``Mod2_Kata/Scripts/activate.bat``
+
+### Activación del Virtual Environment utilizando ``activate.bat``
+
+La activación del entorno en Windows 10, con la ruta abierta hasta la carpeta de Scripts, mediante la instrucción: ``Mod2_Kata/Scripts/activate.bat``
 
 ![image](https://github.com/EmmanuelMontes/LaunchX_Katas/blob/main/images/Imagen3.PNG)
 
@@ -18,7 +21,7 @@ aislados de la demás instalación de Python.
 
 ![image](https://github.com/EmmanuelMontes/LaunchX_Katas/blob/main/images/Imagen4.PNG)
 
-## Instalar una biblioteca
+### Instalar una biblioteca
 
 * Ejecuta el comando ``pip freeze`` para ver las bibliotecas instaladas en el entorno.
 
